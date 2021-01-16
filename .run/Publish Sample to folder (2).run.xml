@@ -1,0 +1,6 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Publish Sample to folder (2)" type="DotNetFolderPublish" factoryName="Publish to folder" singleton="false">
+    <riderPublish target_folder="$PROJECT_DIR$/Sample/Executable" target_framework="netcoreapp3.1" uuid_high="-5074319364642158427" uuid_low="-7419892784294049182" />
+    <method v="2" />
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+C:\Users\jcman\RiderProjects\Sample\SendRecieve\bin\Release\netcoreapp3.1\SendRecieve.deps.json
+C:\Users\jcman\RiderProjects\Sample\SendRecieve\bin\Release\netcoreapp3.1\SendRecieve.dll
+C:\Users\jcman\RiderProjects\Sample\SendRecieve\bin\Release\netcoreapp3.1\SendRecieve.pdb
+C:\Users\jcman\RiderProjects\Sample\SendRecieve\obj\Release\netcoreapp3.1\SendRecieve.csprojAssemblyReference.cache
+C:\Users\jcman\RiderProjects\Sample\SendRecieve\obj\Release\netcoreapp3.1\SendRecieve.AssemblyInfoInputs.cache
+C:\Users\jcman\RiderProjects\Sample\SendRecieve\obj\Release\netcoreapp3.1\SendRecieve.AssemblyInfo.cs
+C:\Users\jcman\RiderProjects\Sample\SendRecieve\obj\Release\netcoreapp3.1\SendRecieve.csproj.CoreCompileInputs.cache
+C:\Users\jcman\RiderProjects\Sample\SendRecieve\obj\Release\netcoreapp3.1\SendRecieve.dll
+C:\Users\jcman\RiderProjects\Sample\SendRecieve\obj\Release\netcoreapp3.1\SendRecieve.pdb

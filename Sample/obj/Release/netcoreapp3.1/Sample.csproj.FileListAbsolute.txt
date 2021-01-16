@@ -1,0 +1,16 @@
+C:\Users\jcman\RiderProjects\Sample\Sample\bin\Release\netcoreapp3.1\Sample.exe
+C:\Users\jcman\RiderProjects\Sample\Sample\bin\Release\netcoreapp3.1\Sample.deps.json
+C:\Users\jcman\RiderProjects\Sample\Sample\bin\Release\netcoreapp3.1\Sample.runtimeconfig.json
+C:\Users\jcman\RiderProjects\Sample\Sample\bin\Release\netcoreapp3.1\Sample.runtimeconfig.dev.json
+C:\Users\jcman\RiderProjects\Sample\Sample\bin\Release\netcoreapp3.1\Sample.dll
+C:\Users\jcman\RiderProjects\Sample\Sample\bin\Release\netcoreapp3.1\Sample.pdb
+C:\Users\jcman\RiderProjects\Sample\Sample\obj\Release\netcoreapp3.1\Sample.csprojAssemblyReference.cache
+C:\Users\jcman\RiderProjects\Sample\Sample\obj\Release\netcoreapp3.1\Sample.AssemblyInfoInputs.cache
+C:\Users\jcman\RiderProjects\Sample\Sample\obj\Release\netcoreapp3.1\Sample.AssemblyInfo.cs
+C:\Users\jcman\RiderProjects\Sample\Sample\obj\Release\netcoreapp3.1\Sample.csproj.CoreCompileInputs.cache
+C:\Users\jcman\RiderProjects\Sample\Sample\obj\Release\netcoreapp3.1\Sample.dll
+C:\Users\jcman\RiderProjects\Sample\Sample\obj\Release\netcoreapp3.1\Sample.pdb
+C:\Users\jcman\RiderProjects\Sample\Sample\obj\Release\netcoreapp3.1\Sample.genruntimeconfig.cache
+C:\Users\jcman\RiderProjects\Sample\Sample\bin\Release\netcoreapp3.1\SendRecieve.dll
+C:\Users\jcman\RiderProjects\Sample\Sample\bin\Release\netcoreapp3.1\SendRecieve.pdb
+C:\Users\jcman\RiderProjects\Sample\Sample\obj\Release\netcoreapp3.1\Sample.csproj.CopyComplete

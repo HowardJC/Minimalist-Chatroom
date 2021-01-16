@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sample/1.0.0": {
+        "dependencies": {
+          "SendRecieve": "1.0.0"
+        },
+        "runtime": {
+          "Sample.dll": {}
+        }
+      },
+      "SendRecieve/1.0.0": {
+        "runtime": {
+          "SendRecieve.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SendRecieve/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

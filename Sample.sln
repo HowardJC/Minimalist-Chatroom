@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{B994656C-399E-48A5-9907-3ED330AB4A62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendRecieve", "SendRecieve\SendRecieve.csproj", "{97BEB33E-69D6-46CC-A05E-6F7C050CCB1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B994656C-399E-48A5-9907-3ED330AB4A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B994656C-399E-48A5-9907-3ED330AB4A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B994656C-399E-48A5-9907-3ED330AB4A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B994656C-399E-48A5-9907-3ED330AB4A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97BEB33E-69D6-46CC-A05E-6F7C050CCB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BEB33E-69D6-46CC-A05E-6F7C050CCB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BEB33E-69D6-46CC-A05E-6F7C050CCB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BEB33E-69D6-46CC-A05E-6F7C050CCB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(RiderSharedRunConfigurations) = postSolution
+		File = BuildLibrary\Publish SendRecieve to folder (1).run.xml
+	EndGlobalSection
+EndGlobal
